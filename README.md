@@ -6,7 +6,8 @@ This is an simulation of the game of snap, the game starts with 52 cards divided
 This application requires python and tkinter, if you do not have this already, visit https://www.python.org/, and then follow the download instructions, it is recommended to install the lastest version of python, tkinter is included within the python package.
 
 ## License
-```                    GNU GENERAL PUBLIC LICENSE
+```
+                    GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
@@ -344,4 +345,9 @@ This General Public License does not permit incorporating your program into
 proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
-Public License instead of this License.```
+Public License instead of this License.
+```
+
+## Assets
+
+
