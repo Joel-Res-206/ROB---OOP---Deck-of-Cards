@@ -17,7 +17,9 @@ This application requires python and tkinter, if you do not have this already, v
 ```
 
 ## Release
-
+| Windows |
+|--------|
+[SnapGameSimulator.zip](https://github.com/Joel-Res-206/ROB---OOP---Deck-of-Cards/archive/refs/tags/Snap.zip)
 
 ## Assets
 The Playing Cards used are all from Unicode found at
